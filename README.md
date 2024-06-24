@@ -20,5 +20,7 @@ It is useful for detecting the closest enemy character to the player character i
     * Ensure that the objects you want to detect have the specified tag set in their Tag property.
 
 ### Example
+![image](https://github.com/alisahanyalcin/Unity-Closest-Object-Detection/assets/34830846/af71a003-8f71-46b9-aa89-81f0bf65f6ab)
+
 ![Ekran görüntüsü 2024-06-24 005806](https://github.com/witnn/Unity-Closest-Object-Checker/assets/75940903/181997a7-5665-422a-bfa9-9e17d149e9ce)
 
